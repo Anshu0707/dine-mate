@@ -31,5 +31,4 @@ A modern, interactive, and responsive web app for managing restaurant tables, as
 
 ---
 
-## 📁 Folder Structure
 
