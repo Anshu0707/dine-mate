@@ -2,7 +2,7 @@
 
 A modern, interactive, and responsive web app for managing restaurant tables, assigning orders, and generating real-time bills using a smooth drag-and-drop interface. Built with **Vanilla JavaScript, HTML, and CSS**, this project simulates a real-world POS (Point-of-Sale) system tailored for restaurants.
 
-> Demo: [🌐 Watch it Live](https://your-live-site-link.com)
+> Demo: [🌐 Watch it Live](https://dine-mate.netlify.app/)
 
 ---
 
